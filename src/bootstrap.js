@@ -6,4 +6,4 @@ const weights = {
 }
 
 
-console.log(weightedLottery(weights))
+console.log(weightedLottery(weights));
